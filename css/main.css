@@ -1,0 +1,39 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    width: 40%;
+    background-color: #f7f7f7;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.input-elm{
+    width: 90%;
+    height: 35px;
+    border-radius: 25px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: none;
+    background-color: #2b2b2b;
+    color: white;
+
+}
+
+select, button{
+    width: 95% !important;
+
+
+}
+
+button{
+    background-color: limegreen !important;
+}
+
+
